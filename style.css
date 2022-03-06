@@ -1,0 +1,40 @@
+input[type="button"]
+	  {
+	 background-color: #808080;
+     border:none;
+	 border-radius: 50%;
+	 color: white;
+	 padding:20px;
+	 text-align: center;
+	 text-decoration: none;
+	 font-size: 20;
+	 text-shadow: 2px 2px 5px black;
+	  }
+	  
+	  input[type="text"]
+	  {
+	  background-color: red;
+	  border: swolid black 2px;
+	  width: 100%;
+	  height: 80px;
+	  color: black;
+	  text-align: right;
+	  font-size:20;
+	  float:center;
+	  text-shadow: 2px 2px 5px black;
+	  }
+	  
+	  input[type="text1"]
+	  {
+	  background-color: gray;
+	  border: swolid black 2px;
+	  width: 100%;
+	  height: 80px;
+	  color: white;
+	  text-align: right;
+	  font-size:18;
+	  float:center;
+	  text-shadow: 2px 2px 5px black;
+	  
+	 
+	 
